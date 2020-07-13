@@ -1,0 +1,6 @@
+framework module Pods_HJMap_Naver {
+  umbrella header "Pods-HJMap-Naver-umbrella.h"
+
+  export *
+  module * { export * }
+}
